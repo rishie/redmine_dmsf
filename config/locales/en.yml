@@ -1,7 +1,7 @@
 # English translation for DMSF by vit.jonas@gmail.com, dan.munn@munnster.co.uk
 en:
-  dmsf: DMSF
-  label_dmsf_file_plural: Dmsf files
+  dmsf: Documents
+  label_dmsf_file_plural: Documents
   warning_no_entries_selected: No entries selected
   error_email_to_must_be_entered: Email To must be entered  
   warning_file_already_locked: File already locked
@@ -61,7 +61,7 @@ en:
   title_download_checked: Download checked in Zip archive
   submit_email: Email
   title_send_checked_by_email: Send checked by email
-  link_user_preferences: Your DMSF project preferences
+  link_user_preferences: Your project document management preferences
   heading_send_documents_by_email: Send documents by email
   label_email_from: From
   label_email_to: To
@@ -152,15 +152,15 @@ en:
   error_file_can_not_be_created: "File can't be created in storage directory"
   error_wrong_zip_encoding: Wrong Zip encoding
   warning_xapian_not_available: Xapian not available
-  menu_dmsf: DMSF
+  menu_dmsf: Documents
   label_physical_file_delete: Physical file delete
   user_is_not_project_member: You are not member of the project
   heading_access_downloads_emails: Downloads/Emails
   heading_access_first: First
   heading_access_last: Last
-  label_dmsf_updated: DMSF updated
+  label_dmsf_updated: Document updated
   title_total_size_of_all_files: Total size of all files under this folder
-  project_module_dmsf: DMSF
+  project_module_dmsf: Document Management
   warning_no_project_to_copy_file_to: No project to copy file to
   comment_copied_from: "Copied from %{source}"
   notice_file_copied: File copied
@@ -168,7 +168,7 @@ en:
   label_target_project: Target project
   label_target_folder: Target folder
   title_copy_or_move: Copy/Move
-  label_dmsf_folder_plural: Dmsf folders
+  label_dmsf_folder_plural: Document folders
   comment_moved_from: "Moved from %{source}"
   error_target_folder_same: Target folder and project are the same as current
   error_file_cannot_be_moved: "File can't be moved"
@@ -186,7 +186,7 @@ en:
   parent_directory: Parent Directory
   note_webdav: Webdav once enabled can be found at http://.../dmsf/webdav/
   label_webdav: Webdav functionality
-  label_dmsf_plural: "Copy DMSF files and folders (%{files} files in %{folders} folders)"
+  label_dmsf_plural: "Copy files and folders (%{files} files in %{folders} folders)"
 
   warning_folder_already_locked: This folder is already locked
   notice_folder_locked: The folder was successfully locked
@@ -216,7 +216,7 @@ en:
   label_dmsf_workflow_step_plural: Steps
   label_dmsf_workflow_approval: Approval
   label_dmsf_workflow_approval_plural: Approvals
-  label_dmsf: DMSF
+  label_dmsf: Documents Management
   label_dmsf_wokflow_action_approve: Approve
   label_dmsf_wokflow_action_reject: Reject
   label_dmsf_wokflow_action_delegate: Delegate to
